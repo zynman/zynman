@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student at Southern New Hampshire University</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47ho0n9l7ttvt1ypx3r5nklxoscnkryrllf4mdinap&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **Algorithimic trading bot**
+- 🔭 I’m currently working on **an Algorithimic trading bot**
 
 - 🌱 I’m currently learning **Java, React, Django**
 
