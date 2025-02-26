@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg)]()
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Computer Science Student at Southern New Hampshire University</h3>
+<h3 align="center">Computer Science Student at Appalachian State University</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47ho0n9l7ttvt1ypx3r5nklxoscnkryrllf4mdinap&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **an Algorithimic trading bot**
